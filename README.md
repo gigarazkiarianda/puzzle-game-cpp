@@ -13,9 +13,9 @@ C++ Compiler: Pengembangan program dilakukan menggunakan C++ Compiler, yang dala
 
 STL (Standard Template Library): STL digunakan untuk memanipulasi struktur data vector yang digunakan untuk menyimpan grid permainan dan angka-angka di dalamnya.
 
-" <cstdlib> ": Library ini digunakan untuk memanfaatkan fungsi-fungsi untuk menghasilkan angka acak.
+< cstdlib > : Library ini digunakan untuk memanfaatkan fungsi-fungsi untuk menghasilkan angka acak.
 
-" <ctime> ": Digunakan untuk mendapatkan nilai waktu saat ini, yang diperlukan untuk menghasilkan seed untuk angka acak.
+ < ctime > : Digunakan untuk mendapatkan nilai waktu saat ini, yang diperlukan untuk menghasilkan seed untuk angka acak.
 
 ## Dokumentasi
 ### Fungsi printGrid
